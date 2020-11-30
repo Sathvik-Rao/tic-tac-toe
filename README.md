@@ -1,5 +1,7 @@
 # tic-tac-toe
 
+Install -> https://github.com/Sathvik-Rao/tic-tac-toe/archive/main.zip
+
 It can be played on Terminal or GUI (graphical user interface).
 
 **GUI**
