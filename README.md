@@ -2,7 +2,7 @@
 
 Install -> https://github.com/Sathvik-Rao/tic-tac-toe/archive/main.zip
 
-It can be played on Terminal or GUI (graphical user interface).
+We can play it using Terminal or GUI(Graphical User Interface).
 
 **GUI**
 ```
