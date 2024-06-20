@@ -27,10 +27,10 @@ When all 9 squares are full, the game is over. If no player has 3 marks in a row
 
 -------------------------------------------------------------------------------------------------------------------
 
-###### GUI Gameplay
+###### GUI Gameplay:
 ![Tic-Tac-Toe_GUI](https://user-images.githubusercontent.com/36164509/126868038-4d1ef864-eb34-4268-bd85-fc24d3a0e78c.gif)
 
 -------------------------------------------------------------------------------------------------------------------
 
-###### Terminal Gameplay
+###### Terminal Gameplay:
 ![Tic-Tac-Toe_Terminal](https://user-images.githubusercontent.com/36164509/126868047-bd039c0c-7c09-4ec0-9e63-bfbb154bf852.gif)
