@@ -12,10 +12,10 @@ play -> GUI\tic-tac-toe_Windows\tic-tac-toe_windows_32bit\tic-tac-toe.exe (32bit
 ```
 
 **Terminal**
+[Live Demo](https://onlinegdb.com/zm2qqjTAr)
 ```
 code -> Terminal\Tic-Tac-Toe.cpp
 play -> compile(Tic-Tac-Toe.cpp) and run(Tic-Tac-Toe.exe (or) a.out (or) ...)
-live demo -> https://onlinegdb.com/zm2qqjTAr
 ```
 
 **Gameplay**
