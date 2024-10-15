@@ -1,6 +1,6 @@
 # tic-tac-toe
 
-Install -> https://github.com/Sathvik-Rao/tic-tac-toe/archive/main.zip
+[Install here](https://github.com/Sathvik-Rao/tic-tac-toe/releases)
 
 Play it using Terminal or GUI(Graphical User Interface).
 
